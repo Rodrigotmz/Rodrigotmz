@@ -37,6 +37,16 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="css3" width="40" height="40"></a>
 <a href="url">
 <img src="https://ar.toneden.io/44033395/unlocks/temp807303?cache=1610660281859" alt="css3" width="40" height="40"></a>
+<a href="url">
+<img src="https://1.bp.blogspot.com/-p_JoU4VjNVQ/XSqGUz6teYI/AAAAAAAASXA/Jy-FWtaCDAUL9h3ISvv_gppFqmWGHoIgACLcBGAs/s0/sublime.png" alt="css3" width="40" height="40"></a>
+<a href="url">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/brackets-logo-png-transparent.png" alt="css3" width="40" height="40"></a>
+<a href="url">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Notepad%2B%2B_Logo.png" alt="css3" width="40" height="40"></a>
+<a href="url">
+<img src="https://f.hubspotusercontent40.net/hubfs/4203549/__hs-marketplace__/kisspng-computer-icons-database-5ae745f0091a11-2824418215251061600373.png" alt="css3" width="40" height="40"></a>
+<a href="url">
+<img src="https://cdn.jim-nielsen.com/macos/128/github-desktop-2021-05-20.png" alt="gitlab" width="40" height="40"></a>
 </p>
 
 Encuentrame en:
