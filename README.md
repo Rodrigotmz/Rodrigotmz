@@ -25,7 +25,10 @@
 <img src="https://cdn.freebiesupply.com/logos/large/2x/bootstrap-4-logo-png-transparent.png" alt="css3" width="40" height="40"></a>
 <a href="url">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQecQ5OwqiCYj71Ijcfqixjd6gP7nMee89d6bzeZp9TmeIZDs0rpmc2jdZdlijSBrT8iKI&usqp=CAU" alt="css3" width="40" height="40"></a>
+<a href="url">
+<img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-stacked-rgb.png" alt="gitlab" width="40" height="40"></a>
 </p>
+
 
 ## Herramientas.
 <p align="left">
