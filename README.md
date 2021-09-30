@@ -4,8 +4,9 @@
 #### Hola Soy Rodrigo Tolentino Martínez, soy graduado del Instituto Tecnológico Superior de Occidente del Estado de Hidalgo mejor conocido como ITSOEH. Soy Ing. en TICS y cuento con perfil de desarrollador .NET, estoy en busca de nuevos retos y expandir los conocimientos que ya poseo. Lo que mas me gusta del desarrollo es la parte Frontend, aun asi, me agrada la parte del Backend.
 --------
 <br>
-Lenguajes y Herramientas.
-=============
+
+## Lenguajes y Herramientas.
+----
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
