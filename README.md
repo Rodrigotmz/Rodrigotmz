@@ -20,6 +20,6 @@
 
  ![Static Badge](https://img.shields.io/badge/Framework_--_Core-512BD4?style=for-the-badge&logo=dotnet&labelColor=black) ![Static Badge](https://img.shields.io/badge/nodejs-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&labelColor=black)
 
-## <span class="i-material-symbols-developer-mode-outline"></span> <b>Lenguajes más usados</b>
+## <img src="https://lottie.host/embed/195e1e2c-99b2-4e3a-a49a-637178c66e18/MerOS3Rf5D.json" width ="25">  <b>Lenguajes más</b>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigotmz&layout=compact)
