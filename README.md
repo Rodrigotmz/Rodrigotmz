@@ -5,6 +5,8 @@
 </h1>
 
 ## **Sobre mi**
+Hola, soy Rodrigo Martinez, conocido como Rodrigotmz en GitHub. Soy un desarrollador especializado en backend, con experiencia en C# y SQL Server. He trabajado en proyectos de conectividad para apps móviles, encriptación de datos y corrección de bugs. Actualmente, soy Data Analyst, asegurando la consistencia de datos en bases de datos.
+Me apasiona aprender nuevas tecnologías y resolver problemas de forma óptima.<br> Mis objetivos son dominar dos lenguajes de programación y llegar a ser un desarrollador senior
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">  <b>Lenguajes y herramientas</b>
  ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&labelColor=black)
@@ -20,6 +22,6 @@
 
  ![Static Badge](https://img.shields.io/badge/Framework_--_Core-512BD4?style=for-the-badge&logo=dotnet&labelColor=black) ![Static Badge](https://img.shields.io/badge/nodejs-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&labelColor=black)
 
-## <img src="https://lottie.host/embed/195e1e2c-99b2-4e3a-a49a-637178c66e18/MerOS3Rf5D.json" width ="25">  <b>Lenguajes más</b>
+## <img src="https://cdn-icons-png.flaticon.com/512/11892/11892738.png" width ="25">  <b>Lenguajes más usados</b>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigotmz&layout=compact)
