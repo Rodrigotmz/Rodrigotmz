@@ -20,4 +20,6 @@
 
  ![Static Badge](https://img.shields.io/badge/Framework_--_Core-512BD4?style=for-the-badge&logo=dotnet&labelColor=black) ![Static Badge](https://img.shields.io/badge/nodejs-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&labelColor=black)
 
+## <span class="i-material-symbols-developer-mode-outline"></span> <b>Lenguajes más usados</b>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigotmz&layout=compact)
