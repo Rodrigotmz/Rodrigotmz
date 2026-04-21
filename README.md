@@ -41,7 +41,7 @@ Me enfoco en backend, integración de sistemas y mejora de procesos mediante sol
 🔹 <a href="https://github.com/Rodrigotmz/FotoFlow">FotoFlow</a><br>
 Aplicación de escritorio en .NET que automatiza la transferencia de fotografías desde dispositivos Android mediante ADB, con monitoreo en tiempo real y gestión en modos básico y avanzado.
 
-<br><br>
+<br>
 
 🔹 <a href="https://www.symtecnologia.com/">Sitio Web Corporativo - SYM Tecnología</a><br>
 Desarrollo de sitio web corporativo con Astro y Tailwind, incluyendo personalización de componentes, optimización de rendimiento y despliegue en producción.
