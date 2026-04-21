@@ -57,9 +57,9 @@ Desarrollo de sitio web corporativo con Astro y Tailwind, incluyendo personaliza
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anton-dev3306&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="45%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rodrigotmz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="45%" />
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anton-dev3306&layout=compact&langs_count=8&theme=algolia" width="45%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rodrigotmz&layout=compact&langs_count=8&theme=algolia" width="45%" />
 
 </div>
 
