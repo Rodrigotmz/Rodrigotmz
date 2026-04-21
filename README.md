@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador enfocado en Backend y Web</h3>
 
 <p align="center">
-Desarrollador de software con +4 años de experiencia en .NET y tecnologías web.  
+Desarrollador de software con +4 años de experiencia en .NET y tecnologías web.<br>
 Me enfoco en backend, integración de sistemas y mejora de procesos mediante soluciones eficientes y mantenibles.
 </p>
 
@@ -36,33 +36,18 @@ Me enfoco en backend, integración de sistemas y mejora de procesos mediante sol
 
 <div align="center">
 
----
-
-<h1 align="center">🚀 Proyectos Destacados</h1>
-
-<div align="center">
-
 <div align="left" style="max-width: 700px; margin: auto;">
 
-🔹 <a href="https://github.com/Rodrigotmz/FotoFlow">FotoFlow:</a>
+🔹 <a href="https://github.com/Rodrigotmz/FotoFlow">FotoFlow</a><br>
 Aplicación de escritorio en .NET que automatiza la transferencia de fotografías desde dispositivos Android mediante ADB, con monitoreo en tiempo real y gestión en modos básico y avanzado.
 
-<br>
+<br><br>
 
-🔹 <a href="https://www.symtecnologia.com/">Sitio Web Corporativo - SYM Tecnología:</a>
-Desarrollo de sitio web corporativo con Astro y Tailwind, incluyendo personalización de componentes, optimización de rendimiento y despliegue en producción. <span>🔒 Repositorio privado por tratarse de proyecto para cliente</span>
+🔹 <a href="https://www.symtecnologia.com/">Sitio Web Corporativo - SYM Tecnología</a><br>
+Desarrollo de sitio web corporativo con Astro y Tailwind, incluyendo personalización de componentes, optimización de rendimiento y despliegue en producción.
+🔒 Repositorio privado por tratarse de proyecto para cliente
 
 </div>
-
-</div>
-
----
-
-
-<br>
-
-<!-- 🔹 <a href="https://github.com/TU_USUARIO/NOMBRE_REPO_3">Nombre del Proyecto 3</a>
-Pequeña descripción de lo que hace el proyecto. -->
 
 </div>
 
@@ -83,5 +68,5 @@ Pequeña descripción de lo que hace el proyecto. -->
 <h3 align="center">📫 Conecta conmigo</h3>
 
 <p align="center">
-<a href="www.linkedin.com/in/rodrigo-tolentino-martinez">LinkedIn</a>
+<a href="https://www.linkedin.com/in/rodrigo-tolentino-martinez">LinkedIn</a>
 </p>
