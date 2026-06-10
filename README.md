@@ -33,21 +33,22 @@ Me enfoco en backend, integración de sistemas y mejora de procesos mediante sol
 ---
 
 <h1 align="center">🚀 Proyectos Destacados</h1>
-
 <div align="center">
-
 <div align="left" style="max-width: 700px; margin: auto;">
+
+### Proyectos en Producción  
 
 📚 <a href="https://collect-up.vercel.app/">Collect-Up</a>:
 Proyecto SaaS enfocado en la comercialización de coleccionables y cómics. Integra gestión de inventario, catálogo de productos, preventas, administración de usuarios y procesos de venta, construido con una arquitectura escalable para soportar la evolución del negocio y futuras funcionalidades.
 
-
-📸 <a href="https://github.com/Rodrigotmz/FotoFlow">FotoFlow:</a>
-Aplicación de escritorio en .NET que automatiza la transferencia de fotografías desde dispositivos Android mediante ADB, con monitoreo en tiempo real y gestión en modos básico y avanzado.
-
 💻 <a href="https://www.symtecnologia.com/">Sitio Web Corporativo - SYM Tecnología:</a>
 Desarrollo de sitio web corporativo con Astro y Tailwind, incluyendo personalización de componentes, optimización de rendimiento y despliegue en producción.
 🔒 Repositorio privado por tratarse de proyecto para cliente
+
+### Proyectos Personales
+
+📸 <a href="https://github.com/Rodrigotmz/FotoFlow">FotoFlow:</a>
+Aplicación de escritorio en .NET que automatiza la transferencia de fotografías desde dispositivos Android mediante ADB, con monitoreo en tiempo real y gestión en modos básico y avanzado.
 
 </div>
 
