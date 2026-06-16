@@ -46,6 +46,8 @@ Desarrollo de sitio web corporativo con Astro y Tailwind, incluyendo personaliza
 🔒 Repositorio privado por tratarse de proyecto para cliente
 
 ### Proyectos Personales
+📄 <a href="https://github.com/Rodrigotmz/CV-Builder">CV Builder:</a>
+Aplicación web para la creación y gestión de currículums profesionales, desarrollada con React y TypeScript. Permite administrar perfiles, experiencia, educación, habilidades y proyectos mediante una arquitectura modular con consumo de API, soportando múltiples versiones de CV y mejoras asistidas por IA.
 
 📸 <a href="https://github.com/Rodrigotmz/FotoFlow">FotoFlow:</a>
 Aplicación de escritorio en .NET que automatiza la transferencia de fotografías desde dispositivos Android mediante ADB, con monitoreo en tiempo real y gestión en modos básico y avanzado.
